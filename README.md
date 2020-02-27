@@ -1,5 +1,5 @@
 # OpenGL-brick
-This is brick with OpenGL
+This is brick with OpenGL  
 My reference: 
 1. J.M HONG 2017 CGG
 2. J.M HONG C++ with 2dgam
